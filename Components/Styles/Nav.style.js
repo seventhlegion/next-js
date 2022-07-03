@@ -7,6 +7,7 @@ export const StyledNav = styled.div`
     width: 100%;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
     
     ul {
         display: flex;
